@@ -1,0 +1,16 @@
+Partlist exported from J:/elektronika/Projekty/Wlasne/Eagle/Wykonane/NE555_pwm_SMD/untitled.sch at 2015-09-28 11:50:41
+
+Part Value  Device         Package   Description                  
+C1   100n   C-EUC1206      C1206     CAPACITOR, European symbol   
+C2   100n   C-EUC1206      C1206     CAPACITOR, European symbol   
+C3   10n    C-EUC1206      C1206     CAPACITOR, European symbol   
+D1          DIODE-MINIMELF MINIMELF  DIODE                        
+D2          DIODE-MINIMELF MINIMELF  DIODE                        
+D3          DIODE-MINIMELF MINIMELF  DIODE                        
+IC1  NE555D NE555D         SO08      TIMER                        
+JP1  ZAS    PINHD-1X2      1X02      PIN HEADER                   
+JP2  OUT    PINHD-1X2      1X02      PIN HEADER                   
+Q1          IGBTTO252_STM  TO252_STM IGBT                         
+R1   1K     R-EU_R1206     R1206     RESISTOR, European symbol    
+R2   47R    R-EU_R1206     R1206     RESISTOR, European symbol    
+R3          3RP/1610N      3RP/1610N 16mm Potentiometer one level 
