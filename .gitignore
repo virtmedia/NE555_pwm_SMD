@@ -42,5 +42,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.b#*
-.s#*
+# Backup files
+*.s#?
+*.b#?
+*.l#?
